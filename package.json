@@ -9,7 +9,7 @@
   },
   "scripts": {
     "start": "node index.js",
-    "build": "echo 'No build step required'"
+    "build": "[my-framework] build --output public"
   },
   "author": "Mr Unique Hacker",
   "license": "ISC",
